@@ -1,0 +1,19 @@
+{
+  "name": "vanta",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^10.0.2",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-router-dom": "^6.4.1",
+    "reactstrap": "^9.1.4",
+    "three": "^0.145.0",
+    "vanta": "^0.5.24"
+  }
+}
